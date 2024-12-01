@@ -38,3 +38,18 @@
 38. net user: Manage user accounts
 39. net localgroup: Manage local groups
 40. net share: Manage shared resources
+41. assoc: Display or modify file extension associations.
+42. fc: Compare two files and display the differences.
+43. find: Search for a text string in a file or files.
+44. findstr: Search for strings in files using regular expressions.
+45. hostname: Display the name of the current host.
+46. logoff: Log off the current user.
+47. pathping: Trace the route to a network host and provide network latency and packet loss information.
+48. tracert: Trace the route packets take to a network host.
+49. schtasks: Schedule commands and programs to run on a computer.
+50. set: Display, set, or remove environment variables.
+51. title: Set the window title for a CMD session.
+52. tree: Display the directory structure of a path or drive.
+53. ver: Display the Windows version.
+54. vol: Display the disk volume label and serial number.
+55. whoami: Display the current user name and domain.
