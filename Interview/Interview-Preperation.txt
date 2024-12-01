@@ -1,0 +1,40 @@
+1. cd: Change directory
+2. dir: List directory contents
+3. mkdir: Create a directory
+4. rmdir: Remove a directory
+5. del: Delete files
+6. copy: Copy files
+7. xcop: Extended copy with more options
+8. move: Move files
+9. rename: Rename files
+10. type: Display contents of a text file
+11. echo: Display text or enable/disable echoing of commands
+12. cls: Clear the command prompt window
+13. exit: Exit the command prompt
+14. ipconfig: Display IP configuration
+15. ping: Send IMP echo request to a network host
+16. netstat: Display network connections, routing tables, interface statistics, etc.
+17. tasklist: List running processes
+18. taskkill: Terminate a running process
+19. shutdown: Shutdown or restart the computer
+20. systeminfo: Display system configuration information
+21. gpupdate: Update group policies
+22. gpresult: Display group policy information
+23. regedit: Open the registry editor
+24. attrib: Change file attributes
+25. chkdsk: Check and repair disk problems
+26. format: Format a disk
+27. sfc: System File Checker - scan and repair system files
+28. diskpart: Disk partitioning tool
+29. wmic: Windows Management Instrumentation Command-line
+30. powercfg: Power configuration tool
+31. cipher: Encrypt or decrypt files and folders
+32. net: Manage network resources
+33. sc: Service Control Manager
+34. robocopy: Robust file copy utility
+35. netsh: Network Shell
+36. bcdedit: Boot Configuration Data Editor
+37. bcdboot: Boot Configuration Data Store Repair
+38. net user: Manage user accounts
+39. net localgroup: Manage local groups
+40. net share: Manage shared resources
