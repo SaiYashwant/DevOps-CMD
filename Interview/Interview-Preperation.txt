@@ -4,7 +4,7 @@
 4. rmdir: Remove a directory
 5. del: Delete files
 6. copy: Copy files
-7. xcop: Extended copy with more options
+7. xcopy: Extended copy with more options
 8. move: Move files
 9. rename: Rename files
 10. type: Display contents of a text file
